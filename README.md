@@ -5,5 +5,5 @@ Refactoring of Legacy Software for the Software Development 2 course at the depa
 Refactor and imporve the code while keeping old functionalities
 
 # Language
-Java11
+Java <br />
 Testing done using the JUnit5 testing framework
