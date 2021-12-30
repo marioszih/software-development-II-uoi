@@ -7,3 +7,5 @@ Refactor and imporve the code while keeping old functionalities
 # Language
 Java <br />
 Testing done using the JUnit5 testing framework
+# Info
+The report pdf contains the UML diagrams and CRC cards of the old and refactored project
